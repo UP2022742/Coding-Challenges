@@ -1,3 +1,6 @@
+// Beats 73.33 % in clock cycles.
+// Beats 52% in memory usage.
+
 class Solution {
 public:
     int reverse(int x) {
