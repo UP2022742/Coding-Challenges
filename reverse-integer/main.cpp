@@ -1,6 +1,9 @@
 // Beats 73.33 % in clock cycles.
 // Beats 52% in memory usage.
 
+// Time complexity: O(log(x)).
+// Space complexity: O(1). 
+
 class Solution {
 public:
     int reverse(int x) {
